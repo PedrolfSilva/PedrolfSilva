@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**PedrolfSilva/PedrolfSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <`Pedro Silva`/>
 
-Here are some ideas to get you started:
+<img align="center" width=200px height=200px alt="side_sticker" src="https://i.imgur.com/0uCgIsw.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🍩 Programming student 🍩 <br/>
+### 🍩 Life and Self-Learning Enthusiast 🍩
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+### ⚙️GitHub stats⚙️
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=pdr0zin&theme=solarized-light&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/pdr0zin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr0zin&theme=solarized-light&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
