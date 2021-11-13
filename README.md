@@ -14,10 +14,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
 <a href="https://github.com/Pepyn0/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=pdr0zin&theme=solarized-light&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=PedrolfSilva&theme=solarized-light&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/pdr0zin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr0zin&theme=solarized-light&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrolfSilva&theme=solarized-light&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
