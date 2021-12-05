@@ -2,7 +2,7 @@
 
 ### <`Pedro Silva`/>
 
-<img align="center" width=200px height=200px alt="side_sticker" src="https://i.imgur.com/0uCgIsw.gif" />
+<img align="center" width=200px height=200px alt="side_sticker" src="https://cdn.dicionariopopular.com/imagens/numero-nove.gif" />
 
 ### 🍩 Programming student 🍩 <br/>
 ### 🍩 Life and Self-Learning Enthusiast 🍩
