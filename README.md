@@ -2,7 +2,7 @@
 
 ### <`Pedro Silva`/>
 
-<img align="center" width=200px height=200px alt="side_sticker" src="https://www.youtube.com/watch?v=d-JBBNg8YKs&list=RDKTWFqZHwokI&index=9&ab_channel=TravisScottVEVO" />
+<img align="center" width=200px height=200px alt="side_sticker" src="https://www.youtube.com/watch?v=kM-4va2nuYg&ab_channel=JackHarlow" />
 
 ### 🇵🇹  Programming student 🍩 <br/>
 ### 🍩 Life and Self-Learning Enthusiast 🍩
