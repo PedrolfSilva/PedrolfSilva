@@ -4,7 +4,7 @@
 
 <img align="center" width=200px height=200px alt="side_sticker" src="https://cdn.dicionariopopular.com/imagens/numero-nove.gif" />
 
-### 🍩 Programming student 🍩 <br/>
+### 🇵🇹  Programming student 🍩 <br/>
 ### 🍩 Life and Self-Learning Enthusiast 🍩
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
